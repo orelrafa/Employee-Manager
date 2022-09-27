@@ -2,7 +2,7 @@
 OOP course project :D
 
 It's a very basic employee managment system that I made as the final course project. It's meant to show off all 
-of the principles of OOP programming using Windows Form Application in the .NET framework.
+of the principles of OOP programming using Windows Form Application in Visual Studio, using the .NET framework.
 
 How to use:
 -The Home section is where you can save or load existing data of employees.
